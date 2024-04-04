@@ -1,11 +1,10 @@
 <template>
     <div
         class="absolute inset-0 -z-10 h-full w-full items-center px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]">
-        <div class="flex flex-col justify-center main mt-10 ">
-            <div class="mx-auto flex align-center flex-col">
-                <img src="../assets/logo.png" alt="App logo" class="h-24 w-24 mx-auto" />
-                <p class="text-center text-white mt-10">Enter url for browsing</p>
-                <InputBar class="w-96 mt-5" v-model:target-url="targetUrl" />
+        <div class="flex flex-col justify-center main mt-24 ">
+            <div class="mx-auto flex align-center flex-col  ">
+                <img src="../assets/logo.png" alt="App logo" class="h-14 w-14 mx-auto" />
+                <InputBar class="w-96 mt-5" place-holder="Enter a url" v-model:target-url="targetUrl" />
                 <Button text="Visit" class="mt-5 w-96" @click="visitUrl" />
             </div>
         </div>
