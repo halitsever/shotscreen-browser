@@ -1,10 +1,10 @@
 <p align="center" class="logo-section">
-<img src="#IMAGE_HERE" height="80" width="80"/>
+<img src="https://github.com/halitsever/shotscreen-browser/blob/main/app/src/assets/logo.png?raw=true" height="80" width="80"/>
 </br>
-<img src="https://halitsever-api.vercel.app/api/repo-title?title=repo_name">
+<img src="https://halitsever-api.vercel.app/api/repo-title?title=Shotscreen">
 
 <p align="center">
-✋ Coming soon...<br>
+🖼️ A frameless browser based on electron.js for getting nice screenshots<br>
 <br/>
 <br/>
 <img src="https://img.shields.io/github/sponsors/halitsever"/> 
@@ -15,27 +15,31 @@
   </p>
 </p>
 
-
-
 <a align="center">
 <img src="https://halitsever-api.vercel.app/api/details"/>
 </a>
 
-- 🧑‍💻 [**TODO**](#) - update docs
+- 🖼️ [**Minimal desktop app**](#) - A minimal desktop app for getting frameless screenshots
 
-
-
-
+<p align="center">
+<img  src="https://github.com/halitsever/shotscreen-browser/blob/main/app/src/assets/ss.png?raw=true"/>
+</p>
 
 <a align="center" >
 <img src="https://halitsever-api.vercel.app/api/installation"/>
 </a>
 
+Install packages:
 
+```bash
+npm install
+```
 
-Todo: update docs
+Run app in dev mode:
 
-
+```
+npm run start
+```
 
 <a align="center" href="https://github.com/halitsever/repo_name/issues">
 <img src="https://halitsever-api.vercel.app/api/issue"/>
@@ -45,11 +49,10 @@ Todo: update docs
 <img src="https://halitsever-api.vercel.app/api/sponsor"/>
 </a>
 
-
 <a align="center">
 <img src="https://halitsever-api.vercel.app/api/license"/>
 </a>
 
-<p>
-  ...
+<p align="center">
+ MIT LICENSE 2024 | Halit Sever
 </p>
