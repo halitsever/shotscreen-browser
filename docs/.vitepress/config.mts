@@ -21,7 +21,7 @@ export default defineConfig({
 
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/halitsever/shotscreen' }
+      { icon: 'github', link: 'https://github.com/halitsever/shotscreen-browser' }
     ]
   }
 })
