@@ -1,5 +1,5 @@
 <p align="center" class="logo-section">
-<img src="https://github.com/halitsever/shotscreen-browser/blob/main/app/src/assets/logo.png?raw=true" height="80" width="80"/>
+<img src="https://github.com/halitsever/shotscreen-browser/blob/main/src/assets/logo.png?raw=true" height="80" width="80"/>
 </br>
 <img src="https://halitsever-api.vercel.app/api/repo-title?title=Shotscreen">
 
@@ -22,7 +22,7 @@
 - 🖼️ [**Minimal desktop app**](#) - A minimal desktop app for getting frameless screenshots
 
 <p align="center">
-<img  src="https://github.com/halitsever/shotscreen-browser/blob/main/app/src/assets/ss.png?raw=true"/>
+<img  src="https://github.com/halitsever/shotscreen-browser/blob/main/src/assets/ss.png?raw=true"/>
 </p>
 
 <a align="center" >
