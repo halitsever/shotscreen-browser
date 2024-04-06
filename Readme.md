@@ -8,7 +8,7 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/github/sponsors/halitsever"/> 
-<img src="https://img.shields.io/github/license/halitsever/repo_name"/> 
+<img src="https://img.shields.io/github/license/halitsever/shotscreen-browser"/> 
 </p>
 <p align="center">
 <a align="center" href="https://halitsever.github.io/shotscreen-browser">Download</a>
@@ -41,7 +41,7 @@ Run app in dev mode:
 npm run start
 ```
 
-<a align="center" href="https://github.com/halitsever/repo_name/issues">
+<a align="center" href="https://github.com/halitsever/shotscreen-browser/issues">
 <img src="https://halitsever-api.vercel.app/api/issue"/>
 </a>
 
