@@ -1,6 +1,4 @@
 <template>
-
-
     <svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 24 24" fill="none" stroke="#fffafa"
         stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
         class="icon icon-tabler icons-tabler-outline icon-tabler-browser">
@@ -9,5 +7,4 @@
         <path d="M4 8l16 0" />
         <path d="M8 4l0 4" />
     </svg>
-
 </template>

@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/*.main {
+.logo {
   -webkit-app-region: drag;
-}*/
+}

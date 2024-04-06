@@ -22,6 +22,10 @@ const createWindow = () => {
     mainWindow.loadURL(targetUrl);
   });
 
+  ipcMain.on("resize-window", (event, dimensions) => {
+    mainWindow.setSize(dimensions.width, dimensions.height, true);
+  });
+
   // and load the index.html of the app.
   logger.info(`Dev server url: ${MAIN_WINDOW_VITE_DEV_SERVER_URL}`);
   if (MAIN_WINDOW_VITE_DEV_SERVER_URL) {

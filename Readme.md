@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/github/license/halitsever/repo_name"/> 
 </p>
 <p align="center">
-<a align="center" href="#">Documentation</a>
+<a align="center" href="https://halitsever.github.io/shotscreen">Download</a>
   </p>
 </p>
 
