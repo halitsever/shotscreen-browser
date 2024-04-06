@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Shotscreen Browser",
   description: "Shotscreen Browser - Frameless Browser For Screenshots, get cool web screenshots on macOs.",
-  base: '/shotscreen/',
+  base: '/shotscreen-browser/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
