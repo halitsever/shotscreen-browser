@@ -6,7 +6,7 @@ hero:
   image:
     src: /logo.png
   name: "Shotscreen Browser"
-  text: "Frameless Browser on macOs"
+  text: "Frameless Browser for macOs"
   actions:
     - theme: brand
       text: Download

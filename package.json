@@ -1,9 +1,13 @@
 {
-  "name": "app",
-  "productName": "app",
-  "version": "1.0.0",
-  "description": "My Electron application description",
+  "name": "Shotscreen",
+  "productName": "Shotscreen Browser",
+  "version": "1.0.1",
+  "description": "A simple browser for taking screenshots",
   "main": ".vite/build/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halitsever/shotscreen-browser"
+  },
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
@@ -23,6 +27,7 @@
     "@electron-forge/plugin-auto-unpack-natives": "^7.3.1",
     "@electron-forge/plugin-fuses": "^7.3.1",
     "@electron-forge/plugin-vite": "^7.3.1",
+    "@electron-forge/publisher-github": "^7.3.1",
     "@electron/fuses": "^1.8.0",
     "@vitejs/plugin-vue": "^5.0.4",
     "autoprefixer": "^10.4.19",
@@ -41,6 +46,7 @@
   "license": "MIT",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
+    "update-electron-app": "^3.0.0",
     "vue": "^3.4.21"
   }
 }

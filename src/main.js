@@ -1,4 +1,5 @@
 const { app, BrowserWindow, ipcMain } = require("electron");
+const { updateElectronApp } = require("update-electron-app");
 const path = require("node:path");
 const logger = require("logmoji")();
 
@@ -6,6 +7,7 @@ const logger = require("logmoji")();
 if (require("electron-squirrel-startup")) {
   app.quit();
 }
+updateElectronApp();
 
 const createWindow = () => {
   // Create the browser window.
