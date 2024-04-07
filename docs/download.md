@@ -1,7 +1,13 @@
+<script setup>
+import { VPButton } from 'vitepress/theme'
+
+
+</script>
+
 # Download
 
 ::: warning
 This page and github only source for downloading shotscreen
 :::
 
-<a class="VPButton medium brand" href="https://github.com/halitsever/shotscreen-browser/releases">Download</a>
+<VPButton text="Download from GH Releases" href="https://github.com/halitsever/shotscreen-browser/releases" />
