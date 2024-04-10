@@ -1,5 +1,4 @@
 <template>
-
     <div id="default-modal" tabindex="-1" aria-hidden="true" :class="{ hidden: !props.isOpen }">
         <div class="flex justify-center mt-20 ">
             <!-- Modal content -->
