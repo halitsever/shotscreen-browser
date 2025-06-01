@@ -5,3 +5,8 @@
 .logo {
   -webkit-app-region: drag;
 }
+
+.title-bar {
+  height: 100px;
+  -webkit-app-region: drag;
+}
